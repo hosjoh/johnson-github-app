@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/johnson-github-app/static/css/main.f855e6bc.css",
+    "main.js": "/johnson-github-app/static/js/main.9194f378.js",
+    "static/js/453.1baeba6a.chunk.js": "/johnson-github-app/static/js/453.1baeba6a.chunk.js",
+    "static/media/logo.svg": "/johnson-github-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/johnson-github-app/index.html",
+    "main.f855e6bc.css.map": "/johnson-github-app/static/css/main.f855e6bc.css.map",
+    "main.9194f378.js.map": "/johnson-github-app/static/js/main.9194f378.js.map",
+    "453.1baeba6a.chunk.js.map": "/johnson-github-app/static/js/453.1baeba6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9194f378.js"
+  ]
+}
